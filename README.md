@@ -1,4 +1,3 @@
-# Nhân Hòa Cloud Team 
 Thực hiện cài đặt cấu hình
 ```sh 
 curl -Lso- https://raw.githubusercontent.com/nhanhoadocs/ghichep-cmdlog/master/cmdlog.sh | bash
